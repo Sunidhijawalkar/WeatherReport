@@ -1,2 +1,0 @@
-# WeatherReport
-Weather App
